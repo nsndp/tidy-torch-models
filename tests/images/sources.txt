@@ -1,0 +1,5 @@
+from WIDER_val:
+irl_det_1 = "12_Group_Group_12_Group_Group_12_10.jpg"
+irl_det_2 = "12_Group_Group_12_Group_Group_12_29.jpg"
+irl_det_3 = "2_Demonstration_Demonstration_Or_Protest_2_58.jpg"
+irl_det_4 = "17_Ceremony_Ceremony_17_171.jpg"
